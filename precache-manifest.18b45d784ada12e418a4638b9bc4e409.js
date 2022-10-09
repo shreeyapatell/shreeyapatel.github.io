@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "863516cd8a29233d4d9b",
-    "url": "/static/css/main.78718d6a.chunk.css"
+    "revision": "24fd5781a0008895d9eb",
+    "url": "/static/css/main.3ea96294.chunk.css"
   },
   {
-    "revision": "863516cd8a29233d4d9b",
-    "url": "/static/js/main.863516cd.chunk.js"
+    "revision": "24fd5781a0008895d9eb",
+    "url": "/static/js/main.24fd5781.chunk.js"
   },
   {
     "revision": "6f8fb3f68196abee84b3",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/static/media/about.707e57f3.jpg"
   },
   {
-    "revision": "a56a5bbaf1568f7c9bae7998b4646c42",
-    "url": "/static/media/Shreeya_Patel_CV_.a56a5bba.pdf"
+    "revision": "bf5c5cad3dfd9a2584364ae98fdb6209",
+    "url": "/static/media/Shreeya_Patel_CV_.bf5c5cad.pdf"
   },
   {
     "revision": "3249153cc100a4153d1cd59350990e9b",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/media/profile.ac4e5bfe.jpg"
   },
   {
-    "revision": "a68afe0ab67c65344fecc2ad826c1fc2",
+    "revision": "adb21dd90de87c46e69d7fe4e2005ae8",
     "url": "/index.html"
   }
 ];
