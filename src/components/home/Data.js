@@ -9,7 +9,7 @@ const Data = () => {
 
         <h3 className='home__subtitle'> Computer Science Student @ Columbia University</h3>
         <p className='home__description'> 
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+       Currently looking for summer 2023 internships in software engineering.
         </p>
 
         <a href='#portfolio' className='button button--flex'> 
