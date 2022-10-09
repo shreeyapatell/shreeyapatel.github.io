@@ -15,10 +15,13 @@ const About = () => {
             <div className='about__data'> 
             <Info/>
 
-            <p className='about__description'> Hi, I am Shreeya, a second year computer science major at Columbia University and co-author of the Alpha Learning Series. The Alpha Learning Series. My current interests are broad, taking the form of many projects and participation in clubs scrabbled throughout my years. Of the most notable, I help start-ups rebrand as a UX designer after their MVP stages, teach highschool girls to code in python at Girls Who Code, 
-            and am on the team that is creating a mind controlled drone at Columbia Neuro x Tech. For my continous advocacy, I have been awarded the 
-            "Women of Inspiration" award (2021) and am the youngest recipient. My goals for the year include the completion of the Neuro x Tech project and am currently looking for 
-            summer 2023 internships in software engineering! </p>
+            <p className='about__description'> 
+            My current interests are broad, taking the form of many projects and participation in clubs.
+            Of the most notable, I help start-ups rebrand as a UX designer after their MVP stages, teach highschool girls 
+            to code in python at Girls Who Code, am building a mind controlled drone at Columbia Neuro x Tech, and am the 
+            co-author for a series of Children's Books. For my continous advocacy, I am the youngest recipient of Girls' 
+            Inc "Woman of Inspiration" award (2021). I am currently looking for summer 2023 internships in software engineering!
+              </p>
  
             <a download="" href={CV} className='button button--flex' > Download Resume
                 <svg
