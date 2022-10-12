@@ -18,8 +18,8 @@ const About = () => {
             <p className='about__description'>
             My current interests are broad, taking the form of many projects and participation in clubs.
             Of the most notable, I help start-ups rebrand as a UX designer after their MVP stages, teach highschool girls to code in python at Girls Who Code, 
-            am on the team that is creating a mind controlled drone at Columbia Neuro x Tech, and am a co-author for a series of Children's Books. 
-            For my continous advocacy, I am the youngest recipient "Women of Inspiration" award (2021). 
+            am building a mind controlled drone at NeuroTech x Columbia, and am a co-author for a series of Children's Books. 
+            For my continous advocacy, I am the youngest recipient of Girls' Inc "Woman of Inspiration" award (2021). 
             I am currently looking for summer 2023 internships in software engineering!
         
             </p>
