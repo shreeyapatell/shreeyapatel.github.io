@@ -96,7 +96,7 @@
     }
 }
 
-@media screen and (max-width: 576px){
+@media screen and (max-width: 100px){
     .work__container {
         grid-template-columns: max-content;
     }
@@ -106,7 +106,7 @@
     }
 }
 
-@media screen and (max-width: 350px){
+@media screen and (max-width: 200px){
     .work__item{
         font-size: var(--small-font-size);
     }

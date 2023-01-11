@@ -41,13 +41,17 @@ const handleClick = (e, index) => {
             </span>
             );
         })}
-    </div>
+        </div>
 
-    <div className='work__container container grid'> 
-    {projects.map((item) => {
-        return <WorkItems item={item} key={item.id} />;
-    })}
-    </div>
+        {/*
+        <div className='work__container container grid'> 
+            {projects.map((item) => {
+                return <WorkItems item={item} key={item.id} />;
+            })}
+        </div> */}
+
+        <div className='work__container container grid'> <WorkItems/> </div>
+
     </div>
 
 
