@@ -1,5 +1,6 @@
 # shreeyapatell.github.io
 This is my personal website.
+Hosting uing github pages: https://shreeyapatell.github.io
 
 Includes:
 
