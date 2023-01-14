@@ -1,13 +1,13 @@
 {
   "main.css": "/static/css/main.bd95bf6a.chunk.css",
-  "main.js": "/static/js/main.eabfd0b1.chunk.js",
-  "main.js.map": "/static/js/main.eabfd0b1.chunk.js.map",
+  "main.js": "/static/js/main.23b5ee31.chunk.js",
+  "main.js.map": "/static/js/main.23b5ee31.chunk.js.map",
   "static/js/1.844faec3.chunk.js": "/static/js/1.844faec3.chunk.js",
   "static/js/1.844faec3.chunk.js.map": "/static/js/1.844faec3.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/about.jpg": "/static/media/about.707e57f3.jpg",
-  "static/media/Shreeya_Patel_CV_.pdf": "/static/media/Shreeya_Patel_CV_.bf5c5cad.pdf",
+  "static/media/Shreeya_Patel_CV_.pdf": "/static/media/Shreeya_Patel_CV_.b6ff628b.pdf",
   "static/media/work1.jpg": "/static/media/work1.3249153c.jpg",
   "static/media/work2.jpg": "/static/media/work2.11f77be7.jpg",
   "static/media/work3.jpg": "/static/media/work3.f54a34b7.jpg",
@@ -17,6 +17,6 @@
   "static/media/home.css": "/static/media/profile.ac4e5bfe.jpg",
   "static/css/main.bd95bf6a.chunk.css.map": "/static/css/main.bd95bf6a.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.ffba90051be87420fd9a761f4f5eec11.js": "/precache-manifest.ffba90051be87420fd9a761f4f5eec11.js",
+  "precache-manifest.626e222f3350639d9520205c136d23cd.js": "/precache-manifest.626e222f3350639d9520205c136d23cd.js",
   "service-worker.js": "/service-worker.js"
 }
