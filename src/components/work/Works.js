@@ -53,8 +53,6 @@ const handleClick = (e, index) => {
         <div className='work__container container grid'> <WorkItems/> </div>
 
     </div>
-
-
   )
 };
 
