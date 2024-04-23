@@ -31,8 +31,9 @@ export const projectsData = [
     {
         id: 4, 
         image: Work4,
-        title: '"Tiktok" for Business',
+        title: 'Grogu Walking Robot',
         category: 'app',
+        link: 'https://youtube.com/shorts/_tak9alD1wQ?si=sboHjLEb3KGpBLBI'
     },
     {
         id: 5, 
