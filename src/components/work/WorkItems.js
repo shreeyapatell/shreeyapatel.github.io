@@ -67,7 +67,7 @@ export const WorkItems = () => {
       <div className='work__card' key={projectsData[3].id}>
           <img src={projectsData[3].image} alt='' className='work__img'/>
           <h3 className='work__title'>{projectsData[3].title}</h3>
-          <a href='#work' className='work__button'>
+          <a href={projectsData[3].link} className='work__button'>
               In Progress<i className= 'bx bx-right-arrow-alt work__button-icon'></i>
           </a>
       </div>
